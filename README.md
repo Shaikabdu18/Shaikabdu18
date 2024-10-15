@@ -28,15 +28,15 @@ I’m a passionate full-stack developer specializing in **MERN Stack (MongoDB, E
 ---
 
 ### 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikabdu18&show_icons=true&theme=radical)
 
 ### 💡 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikabdu18&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **LinkedIn**: in/shaik-abdulla-611054220
 - **Email**: shaikabdu49@gmail.com
 
 ---
