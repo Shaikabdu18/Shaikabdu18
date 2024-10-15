@@ -36,7 +36,7 @@ I’m a passionate full-stack developer specializing in **MERN Stack (MongoDB, E
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn**: in/shaik-abdulla-611054220
+- **LinkedIn**: www.linkedin.com/in/shaik-abdulla-611054220
 - **Email**: shaikabdu49@gmail.com
 
 ---
